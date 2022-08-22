@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T22:13:26 WIB" name="Default suite" finished-at="2022-08-22T22:15:31 WIB" duration-ms="125152">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T22:13:26 WIB" name="Default test" finished-at="2022-08-22T22:15:31 WIB" duration-ms="125152">
+      <class name="com.juaracoding.demo.TestDemo">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:26 WIB" name="setup" finished-at="2022-08-22T22:13:38 WIB" duration-ms="12552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:38 WIB" name="pageObject" finished-at="2022-08-22T22:13:38 WIB" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="myAcc()[pri:1, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:38 WIB" name="myAcc" finished-at="2022-08-22T22:13:40 WIB" duration-ms="1825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAcc -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:40 WIB" name="pageObject" finished-at="2022-08-22T22:13:40 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="Regis()[pri:2, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:40 WIB" name="Regis" finished-at="2022-08-22T22:13:48 WIB" duration-ms="8142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regis -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:48 WIB" name="pageObject" finished-at="2022-08-22T22:13:48 WIB" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="Login()[pri:3, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:48 WIB" name="Login" finished-at="2022-08-22T22:13:58 WIB" duration-ms="9786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:58 WIB" name="pageObject" finished-at="2022-08-22T22:13:58 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="cariWishList1()[pri:4, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:13:58 WIB" name="cariWishList1" finished-at="2022-08-22T22:14:14 WIB" duration-ms="15392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cariWishList1 -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:14 WIB" name="pageObject" finished-at="2022-08-22T22:14:14 WIB" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="cariWishList2()[pri:5, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:14 WIB" name="cariWishList2" finished-at="2022-08-22T22:14:31 WIB" duration-ms="16986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cariWishList2 -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:31 WIB" name="pageObject" finished-at="2022-08-22T22:14:31 WIB" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="MyWishList()[pri:6, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:31 WIB" name="MyWishList" finished-at="2022-08-22T22:14:37 WIB" duration-ms="6474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyWishList -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:37 WIB" name="pageObject" finished-at="2022-08-22T22:14:37 WIB" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="MyWishList2()[pri:7, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:37 WIB" name="MyWishList2" finished-at="2022-08-22T22:14:49 WIB" duration-ms="12079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyWishList2 -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:49 WIB" name="pageObject" finished-at="2022-08-22T22:14:49 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="ShowCart()[pri:8, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:14:49 WIB" name="ShowCart" finished-at="2022-08-22T22:15:02 WIB" duration-ms="13072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShowCart -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:15:02 WIB" name="pageObject" finished-at="2022-08-22T22:15:02 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="CheckOut()[pri:9, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:15:02 WIB" name="CheckOut" finished-at="2022-08-22T22:15:12 WIB" duration-ms="9798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOut -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:15:12 WIB" name="pageObject" finished-at="2022-08-22T22:15:12 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="LogOut()[pri:10, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:15:12 WIB" name="LogOut" finished-at="2022-08-22T22:15:20 WIB" duration-ms="8418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.juaracoding.demo.TestDemo@18d87d80]" started-at="2022-08-22T22:15:20 WIB" name="closeBrowser" finished-at="2022-08-22T22:15:31 WIB" duration-ms="10465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.juaracoding.demo.TestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
